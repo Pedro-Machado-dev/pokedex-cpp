@@ -22,3 +22,12 @@ Academic C++ project developed to manage Pokémon, cities and routes using data 
 ## About the project
 
 This project was developed as an academic group assignment for the Software Engineering course.
+
+## Contributors
+
+- Pedro Henrique Silva Machado
+- Anna Livia de Souza Pereira
+- Joao Victor Simoes Rosa
+- Lara Lisandra Ferreira
+- Nycolle Fernanda Coutinho Pascoal
+- Rafael Moreira Xavier
