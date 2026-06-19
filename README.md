@@ -1,3 +1,36 @@
+## How to run
+
+1. Clone this repository:
+
+```bash
+git clone https://github.com/Pedro-Machado-dev/pokedex-cpp.git
+```
+
+2. Open the project folder:
+
+```bash
+cd pokedex-cpp
+```
+
+3. Compile the project:
+
+```bash
+g++ main.cpp -o pokedex
+```
+
+4. Run the program:
+
+```bash
+./pokedex
+```
+
+On Windows, run:
+
+```bash
+pokedex.exe
+```
+
+
 # C++ Pokédex
 
 Academic C++ project developed to manage Pokémon, cities and routes using data structures such as binary search trees, adjacency lists and graph traversal.
